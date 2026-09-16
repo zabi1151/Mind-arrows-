@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ad-services-config>
+    <attribution allowAttributionMeasurement="false" />
+    <topics allowAdTopics="false" />
+    <fledge allowAdSelection="false" />
+</ad-services-config>

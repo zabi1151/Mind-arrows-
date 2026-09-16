@@ -1,0 +1,8 @@
+{
+  "name": "Mind Arrows",
+  "description": "Mind Arrows is a modern, minimal brain-training puzzle game where players solve spatial logic challenges by clearing unblocked arrows across 300 handcrafted levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
